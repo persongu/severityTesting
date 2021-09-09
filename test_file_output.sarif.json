@@ -28,8 +28,7 @@
                                     "jersey",
                                     "cwe-798",
                                     "java"
-                                ],
-                                "security-severity": 9
+                                ]
                             },
                             "defaultConfiguration": {
                                 "level": "error"
